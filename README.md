@@ -1,4 +1,4 @@
-# [Ensemble Semi-supervised Entity Alignment via Cycle-teaching (2022 AAAI)]
+# [Ensemble Semi-supervised Entity Alignment via Cycle-teaching (2022 AAAI)](https://www.aaai.org/AAAI22Papers/AAAI-5065.XinK.pdf)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/JadeXIN/IMEA/issues)
 [![language-python3](https://img.shields.io/badge/Language-Python3-blue.svg?style=flat-square)](https://www.python.org/)
 [![made-with-Tensorflow](https://img.shields.io/badge/Made%20with-Tensorflow-orange.svg?style=flat-square)](https://www.tensorflow.org/)
